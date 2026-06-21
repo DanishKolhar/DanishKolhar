@@ -1,6 +1,6 @@
 <div align="center">
 
-# <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Hi+there!+I'm+Danish+Kolhar;Computer+Science+Student;AI+%7C+Game+Development+%7C+Software+Engineering;Usually+Building+Something+Cool;Learning+Something+New+Every+Day" alt="Typing SVG" />
+# <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Hi+there!+I'm+Danish+Kolhar" alt="Typing SVG" />
 
 </div>
 
@@ -71,13 +71,7 @@ Usually building something, learning something, or debugging something.
 
 </div>
 
-<br>
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
 
 ---
 
