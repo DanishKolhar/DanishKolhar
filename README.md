@@ -95,6 +95,6 @@ Usually building something, learning something, or debugging something.
 
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blueviolet&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=DanishKolhar&color=blueviolet&style=for-the-badge)
 
 </div>
