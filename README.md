@@ -58,16 +58,6 @@ Usually building something, learning something, or debugging something.
 
 ---
 
-## 🚀 What I'm Working On
-
-```txt
-✓ Artificial Intelligence & Machine Learning
-✓ Full-Stack Web Development
-✓ Unreal Engine Projects
-✓ Open Source Contributions
-✓ Software Engineering Concepts
-✓ Building Better Products Every Day
-```
 
 ---
 
@@ -105,15 +95,7 @@ Usually building something, learning something, or debugging something.
 
 </p>
 
----
 
-## 💡 Developer Philosophy
-
-<div align="center">
-
-> **Code. Break. Debug. Learn. Repeat.**
-
-</div>
 
 ---
 
