@@ -102,11 +102,10 @@ Building AI-powered applications, scalable web platforms, and immersive game exp
 
 # 🤝 Connect With Me
 
-📧 Email: your-email@example.com
+📧 Email: your-danishkolhar@gmail.com
 
-💼 LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN
+💼 LinkedIn: https://linkedin.com/in/danishkolhar
 
-🌐 Portfolio: Coming Soon
 
 ---
 
