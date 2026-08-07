@@ -1,0 +1,27 @@
+<svg width="1280" height="400" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+
+    <!-- Background -->
+    <image href="banner.png" x="0" y="0" width="1280" height="400"></image>
+
+    <!-- Dark overlay -->
+    <rect width="1280" height="400" fill="black" opacity="0.28"></rect>
+
+    <!-- Name -->
+    <text x="640" y="200" text-anchor="middle" fill="white" font-size="42" font-family="Segoe UI" font-weight="700">
+
+        Hi 👋, I'm Mohammed Danish Kolhar
+
+        <animate attributeName="opacity" values="0;1" dur="2s" fill="freeze"></animate>
+
+    </text>
+
+    <!-- Subtitle -->
+    <text x="640" y="245" text-anchor="middle" fill="#f2f2f2" font-size="22" font-family="Segoe UI">
+
+        AI/ML Developer • Full Stack Developer • Game Developer
+
+        <animate attributeName="opacity" values="0;1" begin="0.8s" dur="2s" fill="freeze"></animate>
+
+    </text>
+
+</svg>
