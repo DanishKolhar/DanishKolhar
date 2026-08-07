@@ -1,17 +1,5 @@
 <p align="center">
-  <img src="https://images.openai.com/static-rsc-4/mMoLkRpEosf4pVEsXaFlc1n_NuZMtylEuZThxTjx75n-OCMbUMuMZpeqDz3zYoSwjWPfw4MhlAQ_CNZ7YyvKVxiwipfa_n9mDBjkGtH0fJ4ySl3mmCZRbIMs0Q6n3-fwJgRwXecl47NNluVXSneaepvJ4QHXiaLW9ys9bTMeVOU?purpose=inline" width="100%" alt="Spider-Man Banner">
-</p>
-
-<h1 align="center">
-  Hi 👋, I'm Mohammed Danish Kolhar
-</h1>
-
-<h3 align="center">
-  AI/ML Developer • Full Stack Developer • Game Developer
-</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3000&pause=1200&color=FFFFFF&center=true&vCenter=true&width=650&lines=Building+AI-powered+Applications;Full+Stack+Developer;Machine+Learning+Enthusiast;Game+Developer+%7C+Unreal+Engine" />
+  <img src="banner.svg" width="100%">
 </p>
 ---
 
