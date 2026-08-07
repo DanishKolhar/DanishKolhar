@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/spiderman-banner.png" width="100%" alt="Spider-Man Banner">
+  <img src="https://images.openai.com/static-rsc-4/mMoLkRpEosf4pVEsXaFlc1n_NuZMtylEuZThxTjx75n-OCMbUMuMZpeqDz3zYoSwjWPfw4MhlAQ_CNZ7YyvKVxiwipfa_n9mDBjkGtH0fJ4ySl3mmCZRbIMs0Q6n3-fwJgRwXecl47NNluVXSneaepvJ4QHXiaLW9ys9bTMeVOU?purpose=inline" width="100%" alt="Spider-Man Banner">
 </p>
 
 <h1 align="center">
