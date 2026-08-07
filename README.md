@@ -1,6 +1,16 @@
-<p align="center">
-    <img src="./download.svg" width="100%">
+<div align="center">
+
+<h1>Hi 👋, I'm Danish Kolhar</h1>
+
+<h3>
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&width=950&lines=B.Tech+CSE+Student+%7C+AI%2FML+Developer+%7C+Full+Stack+Developer+%7C+Game+Developer" alt="Typing SVG" />
+</h3>
+
+<p>
+Building AI-powered applications, scalable web platforms, and immersive game experiences.
 </p>
+
+</div>
 ---
 
 ## 🚀 About Me
