@@ -1,10 +1,18 @@
-<h1 align="center">Hi 👋, I'm Mohammed Danish Kolhar</h1>
-<h3 align="center">B.Tech CSE Student | AI/ML Developer | Full Stack Developer | Game Developer</h3>
-
 <p align="center">
-Building AI-powered applications, scalable web platforms, and immersive game experiences.
+  <img src="assets/spiderman-banner.png" width="100%" alt="Spider-Man Banner">
 </p>
 
+<h1 align="center">
+  Hi 👋, I'm Mohammed Danish Kolhar
+</h1>
+
+<h3 align="center">
+  AI/ML Developer • Full Stack Developer • Game Developer
+</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3000&pause=1200&color=FFFFFF&center=true&vCenter=true&width=650&lines=Building+AI-powered+Applications;Full+Stack+Developer;Machine+Learning+Enthusiast;Game+Developer+%7C+Unreal+Engine" />
+</p>
 ---
 
 ## 🚀 About Me
@@ -73,64 +81,6 @@ Building AI-powered applications, scalable web platforms, and immersive game exp
 
 ---
 
-# 🚀 Featured Projects
-
-## 🏗️ ArchitectAI
-
-AI-powered Product Reverse Engineering platform that analyzes websites using Playwright + Gemini Vision and automatically generates
-
-- User Flow
-- Database Design
-- API Architecture
-- Features
-- Tech Stack
-- System Architecture
-
-**Tech:** Next.js • Playwright • Gemini Vision • React Flow • TailwindCSS
-
----
-
-## ❤️ Diabetes Risk Analyzer
-
-Machine Learning application that predicts diabetes risk using Random Forest.
-
-- Data preprocessing
-- Feature engineering
-- Model deployment
-- Interactive prediction interface
-
-**Tech:** Python • Scikit-learn • Streamlit
-
----
-
-## 🎉 Mehfil
-
-Complete Event & Kitty Party Management SaaS platform.
-
-Features:
-
-- Authentication
-- Event Booking
-- Razorpay Payments
-- User Dashboard
-- Admin Panel
-
-**Tech:** React • Node.js • Express • MySQL
-
----
-
-## 🎮 Game Development
-
-Developing immersive game environments using
-
-- Unreal Engine 5
-- Blender
-- Gameplay Systems
-- Environment Design
-- Animation
-- Level Design
-
----
 
 # 📈 GitHub Stats
 
@@ -150,17 +100,7 @@ Developing immersive game environments using
 
 ---
 
-# 🌱 Currently Learning
 
-- Cloud Computing
-- Docker
-- Kubernetes
-- DevOps
-- AWS
-- System Design
-- Distributed Systems
-
----
 
 # 🤝 Connect With Me
 
