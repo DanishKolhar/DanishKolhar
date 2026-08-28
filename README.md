@@ -92,7 +92,7 @@ Building AI-powered applications, scalable web platforms, and immersive game exp
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=danishkolhardev&theme=tokyonight"/>
 
 </p>
 
